@@ -1,0 +1,22 @@
+{
+  "name": "cypress-each-examples",
+  "version": "1.0.0",
+  "description": "Different ways to retrieve elements in a cycle using Cypress",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-crazyaqa:crazyaqa/cypress-each-examples.git"
+  },
+  "keywords": [
+    "AQA", "Cypress", "cycle", "loop", "each"
+  ],
+  "author": "crazyaqa",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.17.0"
+  }
+}
