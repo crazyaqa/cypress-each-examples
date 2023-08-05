@@ -7,7 +7,7 @@ This repository demonstrates different ways to retrieve elements in a cycle usin
 To clone this repository to your local machine, use the following command:
 
 ```
-git clone https://github.com/YOUR_USERNAME/cypress-each-examples.git
+git clone https://github.com/crazyaqa/cypress-each-examples.git
 ```
 
 ## Installing dependencies
